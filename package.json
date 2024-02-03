@@ -9,7 +9,7 @@
   "devDependencies": {
   },
   "scripts": {
-    "dataServer": "json-server -w db.json"
+    "dataServer": "json-server db.json"
   },
   "keywords": [],
   "author": "",
