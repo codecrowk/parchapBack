@@ -4,7 +4,7 @@
   "description": "",
   "main": "fn.js",
   "dependencies": {
-    "json-server": "^1.0.0-alpha.17"
+    "json-server": "1.0.0-alpha.17"
   },
   "scripts": {
     "dev": "json-server db.json"
